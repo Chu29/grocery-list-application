@@ -26,12 +26,12 @@ Knowledge about JS:
 ## Clone project
 
 - To get a local copy up and running follow these simple example steps.
-- Clone this repository with `https://github.com/abuemkezeChu/grocery-list-application.git` using your terminal or command line.
+- Clone this repository with `https://github.com/Chu29/grocery-list-application.git` using your terminal or command line.
 - Change to the project directory by entering: cd grocery-list-application in the terminal.
 
 ## Command line steps
 
-- $ git clone `$ https://github.com/abuemkezeChu/grocery-list-application.git`
+- $ git clone `$ https://github.com/Chu29/grocery-list-application.git`
 - $ `cd grocery-list-application`
 - $ `git checkout feature
 
@@ -43,5 +43,5 @@ Knowledge about JS:
 
 👤 **Abuemkeze Chu**
 
-- GitHub: [@abuemkezeChu](https://github.com/abuemkezeChu)
-- Twitter: [@abuemkeze](https://twitter.com/abuemkeze)
+- GitHub: [@Chu29](https://github.com/Chu29)
+- Twitter: [@unku_chu](https://twitter.com/unku_chu)
